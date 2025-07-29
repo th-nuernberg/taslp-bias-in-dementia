@@ -1,8 +1,8 @@
-# 📊 Bias analysis of acoustic representations for AD classification.
+# 📊 Bias and Fairness in Self-Supervised Acoustic Representations for Cognitive Impairment Detection.
 
 This repository contains the code, datasets information, and resources used in our study:
 
-**"Acoustic Representations for the Classification of Alzheimer's Disease: A Bias Analysis and Machine Learning Investigation"**  
+**"Bias and Fairness in Self-Supervised Acoustic Representations for Cognitive Impairment Detection"**  
 *Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing (2025)*
 
 ---
