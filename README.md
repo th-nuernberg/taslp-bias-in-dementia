@@ -3,7 +3,7 @@
 This repository contains the code, datasets information, and resources used in our study:
 
 **"Bias and Fairness in Self-Supervised Acoustic Representations for Cognitive Impairment Detection"**  
-*Submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing (2025)*
+*Submitted to Speech Communication (2026)*
 
 ---
 
