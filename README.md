@@ -48,6 +48,9 @@ Key components include:
 │   ├── bias analysis scripts             # Bias evaluation and analysis
 │   └── supporting utilities              # Helper functions
 │
+├── results/                              # Result files
+│   ├── ... 
+│
 ├── requirements.txt                      # Python dependencies
 └── README.md                             # Project overview (this file)
 
@@ -70,8 +73,8 @@ Key components include:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/th-nuernberg/taslp-bias-in-dementia
-   cd taslp-bias-in-dementia
+   git clone https://github.com/th-nuernberg/bias-in-dementia-2026
+   cd bias-in-dementia-2026
 
 2. **Create a virtual environment and install dependencies:**
     
@@ -80,7 +83,7 @@ Key components include:
     source venv/bin/activate  # for macOS/Linux
     venv\Scripts\activate     # for Windows
     pip install -r requirements.txt
-
+   
 ---
 
 ## 🚀 Usage
